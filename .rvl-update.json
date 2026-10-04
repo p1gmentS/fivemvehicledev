@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "name": "reality_vehicle_lab",
+      "source": "resources/reality_vehicle_lab"
+    }
+  ]
+}
